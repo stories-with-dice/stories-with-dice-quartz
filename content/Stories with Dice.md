@@ -1,19 +1,30 @@
 ---
-title: Stories with Dice
+dg-home: true
+dg-publish: true
+dg-updated: 2023-04-17
+dg-meta-tags:
+ description: "Stories with Dice RPG blog"
+ "og:image": "https://i.imgur.com/L67qj4d.png"
 ---
 
 
 ![](https://i.imgur.com/Wi8Ku44.png)
 
-# Hello!
-
+<h2> Hello! </h2>
 This is [[#About me|my]] blog, on RPGs, writing, and other creative topics. You can find blog posts, solo RPG actual play journals, and other miscellany.
 
 ‣ *Subscribe to the feed [here](https://www.storieswithdice.com/feed.xml)*
 
 # Blog posts
 
-- [[Mansion23]] 
+```dataview
+TABLE WITHOUT ID
+file.link as POST,
+dg-updated as DATE
+FROM "blog"
+SORT dg-updated DESC
+```
+
 # Cthulhu Eternal Solo
 
 This is a solo AP of Cthulhu Eternal, using Mythic GM 2E
