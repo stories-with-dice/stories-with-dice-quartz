@@ -1,6 +1,5 @@
 ---
-dg-publish: true
-dg-updated: 2023-08-10
+date: 2023-08-10
 ---
 
 I use Obsidian for my RPG prep, both in campaigns I run and in my solo games. I try not to leave Obsidian to keep myself immersed in the story and the game. I use different tools to roll on random tables to keep myself inspired.

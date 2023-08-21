@@ -9,11 +9,17 @@ title: Stories with Dice
 
 This is [[#About me|my]] blog, on RPGs, writing, and other creative topics. You can find blog posts, solo RPG actual play journals, and other miscellany.
 
-‣ *Subscribe to the feed [here](https://www.storieswithdice.com/feed.xml)*
+‣ *Subscribe to the feed [here](https://www.storieswithdice.com/index.xml)*
 
 # Blog posts
 
 - [[Mansion23]] 
+- [[Obsidian Random Tables - Worlds without Number]]
+- [[Cthulhu Eternal - Alternative Sanity Mechanics]]
+- [[Cthulhu Eternal - Custom Rules for Motivations]]
+- [[Romanian Mythos]]
+- [[OSR Usage Die]]
+- [[My hack OSR System]]
 # Cthulhu Eternal Solo
 
 This is a solo AP of Cthulhu Eternal, using Mythic GM 2E
@@ -25,11 +31,15 @@ This is a solo AP of Cthulhu Eternal, using Mythic GM 2E
 
 This is my solo AP of Scum & Villainy (then Fate Accelerated). It's mostly abandoned, but I might continue it some day™️.
 
-```dataview
-LIST from "lone-scum"
-SORT file.name
-```
-
+- [[session 0]]
+- [[session 0 - Arthur's sheet]]
+- [[session 0 - campaign overview]]
+- [[Threads and NPCs]]
+- [[session 0 - pt2]]
+- [[session 1]]
+- [[session 2]]
+- [[session 3]]
+- [[session 4]]
 # About me
 
 I am Christopher Dimitrios. I am originally from Eastern Europe but now live in other parts of the world.

@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-dg-updated: 2023-07-08
+date: 2023-07-08
 ---
 
 As I mentioned in [[blog/Cthulhu Eternal - Custom Rules for Motivations|Cthulhu Eternal - Custom Rules for Motivations]], I have been running and playing in a lot of Lovecraftian horror investigative games the past two years: Delta Green, Call of Cthulhu, [Cthulhu Eternal](https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD). The genre is compelling to me for many reasons that I won't get into here.

@@ -1,6 +1,5 @@
 ---
-dg-publish: true
-dg-updated: 2023-08-11
+date: 2023-08-11
 ---
 
 ![700](https://i.imgur.com/KXg4Hst.png)

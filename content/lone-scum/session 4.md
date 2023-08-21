@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-dg-updated: 2023-04-17
+date: 2023-04-17
 ---
 
 My goal last session was to restart the life support in the sections A & B. These had been disabled when the life support system had suddenly gone offline. But now I am fatigued and exhausted from the lack of oxygen in there. My lungs are still burning from the exertion. 

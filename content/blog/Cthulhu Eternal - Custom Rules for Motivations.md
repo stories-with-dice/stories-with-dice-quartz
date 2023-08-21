@@ -1,6 +1,5 @@
 ---
-dg-publish: true
-dg-updated: 2023-06-29
+date: 2023-06-29
 ---
 
 ![](https://imgur.com/0737wPF.jpg)

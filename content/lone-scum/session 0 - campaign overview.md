@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-updated: 2023-04-17
-dg-pinned: true
+date: 2023-04-17
 ---
 
 ![space is big](https://i.imgur.com/sQyHy1U.jpg)

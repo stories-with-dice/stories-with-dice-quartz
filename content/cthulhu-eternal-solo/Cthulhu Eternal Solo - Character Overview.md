@@ -1,6 +1,5 @@
 ---
-dg-publish: true
-dg-updated: 2023-08-07
+date: 2023-08-07
 ---
 
 So far we have
